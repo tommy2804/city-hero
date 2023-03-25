@@ -48,21 +48,45 @@ Overall, City-Hero is a comprehensive platform that provides a modern and innova
 
 5. Enjoy! The app should be successfully loaded by now. Please feel free to play around and test out its features. If for any reason the app couldn't be loaded or any of the features are breaking, please report the issue at the link below.
 
-   - Link: https://github.com/BernStrom/YumMeals/issues
+   - Link: https://github.com/tommy2804/city-hero/issues
 
-## Guide
-## Contact
-## Contributing
-## Examples
+
+## :gear: Core Tech Stack
+- :arrow_up_small:&nbsp; [Expo](https://expo.io/ 'Expo')
+- 👷&nbsp; [React JS](https://react.dev/learn/start-a-new-react-project)
+- :electron:&nbsp;[React Native](https://reactnative.dev/ 'React Native')
+- :page_with_curl:&nbsp; [React Native Paper](https://callstack.github.io/react-native-paper/index.html 'React Native Paper')
+- :link:&nbsp; [React Navigation](https://reactnavigation.org/ 'React Navigation')
+- :performing_arts:&nbsp; [Styled Components](https://styled-components.com/ 'Styled Components')
+- :fire:&nbsp; [MongoDB](https://www.mongodb.com/)
+- :world_map:&nbsp; [Google Places APIs](https://developers.google.com/maps/documentation/places/web-service/overview 'Google Places APIs')
+
+## :sparkles: Main Features
+
+- Register & Login authentication through email & password.
+- Location search through cities around the world to discover restaurants.
+- Customizable report images utilizing mobile device camera with user permissions.
+- Online report by citizens, with current location perrmitions to send currend data directly to the munciplity
+
+
+## :camera_flash: Screenshots
+
+<p>
+    <img src="./assets/screenshots/app-preview-1.gif" width="250">
+    <img src="./assets/screenshots/app-preview-map.png" width="250">
+    <img src="./assets/screenshots/app-preview-2.gif" width="250">
+    <img src="./assets/screenshots/app-preview-restaurant-menu.png" width="250">
+    <img src="./assets/screenshots/app-preview-3.gif" width="250">
+    <img src="./assets/screenshots/app-preview-user-settings.png" width="250">
+</p>
+
+
 <details>
  <summary>📊 <b>Videos & images</b></summary>
 https://user-images.githubusercontent.com/89460205/227716694-4aefd8b9-d180-4990-a645-dc409383ad25.mp4
 
 
-
-
-
-
 ![cityhero-image](https://user-images.githubusercontent.com/89460205/227716698-39d18e0a-938e-4ca8-91c2-e5907f6d10a6.jpeg)
+  
 ![inspector-image](https://user-images.githubusercontent.com/89460205/227716720-d1223dad-3d3c-4086-8894-9855ad2601b4.jpeg)
 </details>
