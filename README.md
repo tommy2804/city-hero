@@ -1,6 +1,5 @@
 # city-hero
 
-
 <p align="center">
   <a href="#calling-general-info">General-info</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#eyes-preview">Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -50,8 +49,8 @@ Overall, City-Hero is a comprehensive platform that provides a modern and innova
 
    - Link: https://github.com/tommy2804/city-hero/issues
 
-
 ## :gear: Core Tech Stack
+
 - :arrow_up_small:&nbsp; [Expo](https://expo.io/ 'Expo')
 - 👷&nbsp; [React JS](https://react.dev/learn/start-a-new-react-project)
 - :electron:&nbsp;[React Native](https://reactnative.dev/ 'React Native')
@@ -68,21 +67,24 @@ Overall, City-Hero is a comprehensive platform that provides a modern and innova
 - Customizable report images utilizing mobile device camera with user permissions.
 - Online report by citizens, with current location perrmitions to send currend data directly to the munciplity
 
-
 ## :camera_flash: Screenshots
 
 <p>
-  <img src="https://user-images.githubusercontent.com/89460205/227716694-4aefd8b9-d180-4990-a645-dc409383ad25.mp4" width="300">
+  <img src="./assets/app-preview-map.png" width="250">
+  <img src="./assets/city-hero-logo.jpeg" width="250">
+  <video source="./assets/city-hero-native-video.mp4" width="250">
+  <img src="./assets/inspector-image.jpeg" width="250">
+  <img src="./assets/cityhero-image.jpeg" width="250">
+  <video source="./assets/inspector-video-1.mp4" width="250">
+  <video source="./assets/city-hero-native-video.mp4" width="250">
 
 </p>
-
 
 <details>
  <summary>📊 <b>Videos & images</b></summary>
 
-
-
 ![cityhero-image](https://user-images.githubusercontent.com/89460205/227716698-39d18e0a-938e-4ca8-91c2-e5907f6d10a6.jpeg)
-  
+
 ![inspector-image](https://user-images.githubusercontent.com/89460205/227716720-d1223dad-3d3c-4086-8894-9855ad2601b4.jpeg)
+
 </details>
