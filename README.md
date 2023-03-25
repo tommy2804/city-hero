@@ -9,6 +9,7 @@
   <a href="#memo-license-">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#warning-disclaimer">Disclaimer</a>
 </p>
+  <img src="./assets/city-hero-logo.jpeg" width="200">
 
 ## :calling: General info
 
@@ -69,22 +70,30 @@ Overall, City-Hero is a comprehensive platform that provides a modern and innova
 
 ## :camera_flash: Screenshots
 
-<p>
-  <img src="./assets/app-preview-map.png" width="250">
-  <img src="./assets/city-hero-logo.jpeg" width="250">
-  <video source="./assets/city-hero-native-video.mp4" width="250">
-  <img src="./assets/inspector-image.jpeg" width="250">
-  <img src="./assets/cityhero-image.jpeg" width="250">
-  <video source="./assets/inspector-video-1.mp4" width="250">
-  <video source="./assets/city-hero-native-video.mp4" width="250">
-
-</p>
+<!-- Title -->
+<h1 align="center"> My Cool Project </h1>
+<!-- Images -->
+<div align="center">
+  <img src="./assets/inspector-image.jpeg" width="200">
+  <img src="./assets/citizen-image.png" width="200">
+  <img src="./assets/cityhero-image.jpeg" height="400" width="500">
+</div>
 
 <details>
- <summary>📊 <b>Videos & images</b></summary>
+  <summary>📊 <b>Videos</b></summary>
 
-![cityhero-image](https://user-images.githubusercontent.com/89460205/227716698-39d18e0a-938e-4ca8-91c2-e5907f6d10a6.jpeg)
+https://user-images.githubusercontent.com/89460205/227721144-13a0958e-3272-4da0-bcc6-404eafe1005c.mp4
 
-![inspector-image](https://user-images.githubusercontent.com/89460205/227716720-d1223dad-3d3c-4086-8894-9855ad2601b4.jpeg)
+https://user-images.githubusercontent.com/89460205/227721139-5ff7970c-6c56-4038-a259-f56e691ed11b.mp4
+
+ <br />
 
 </details>
+
+## :memo: License <a aria-label="YumMeals is free to use" href="https://choosealicense.com/licenses/mit/" target="_blank"><img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-success.svg?style=flat-square&color=33CC12" target="_blank" /></a>
+
+This project is under the terms of the MIT license. For more information, please refer to the license [documentation](LICENSE.md).
+
+## :warning: Disclaimer
+
+The contents of these pages are provided as an information guide only. While every effort is made in preparing the material for publication, no responsibility is accepted by or on behalf of the owner(s) for any errors, omissions or misleading statements on these pages or any site to which these pages connect. Although every effort is made to ensure the reliability of listed sites this cannot be taken as an endorsement of these sites.
