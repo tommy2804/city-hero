@@ -56,8 +56,7 @@ export default function Form() {
       });
 
       if (res.status === 201) {
-        localStorage.setItem('User',res.data);
-        // console.log(res.data);
+        localStorage.setItem('User', res.data);
         dispatch(setUser(res.data));
         navigate('/Main');
       } else {
@@ -70,7 +69,7 @@ export default function Form() {
       });
 
       if (res.status === 201) {
-        localStorage.setItem('User',res.data);
+        localStorage.setItem('User', res.data);
         dispatch(setUser(res.data));
         navigate('/Main');
       } else {
