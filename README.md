@@ -70,8 +70,6 @@ Overall, City-Hero is a comprehensive platform that provides a modern and innova
 
 ## :camera_flash: Screenshots
 
-<!-- Title -->
-<h1 align="center"> My Cool Project </h1>
 <!-- Images -->
 <div align="center">
   <img src="./assets/inspector-image.jpeg" width="200">
