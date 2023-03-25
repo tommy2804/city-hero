@@ -72,18 +72,14 @@ Overall, City-Hero is a comprehensive platform that provides a modern and innova
 ## :camera_flash: Screenshots
 
 <p>
-    <img src="./assets/screenshots/app-preview-1.gif" width="250">
-    <img src="./assets/screenshots/app-preview-map.png" width="250">
-    <img src="./assets/screenshots/app-preview-2.gif" width="250">
-    <img src="./assets/screenshots/app-preview-restaurant-menu.png" width="250">
-    <img src="./assets/screenshots/app-preview-3.gif" width="250">
-    <img src="./assets/screenshots/app-preview-user-settings.png" width="250">
+  <img src="https://user-images.githubusercontent.com/89460205/227716694-4aefd8b9-d180-4990-a645-dc409383ad25.mp4" width="300">
+
 </p>
 
 
 <details>
  <summary>📊 <b>Videos & images</b></summary>
-https://user-images.githubusercontent.com/89460205/227716694-4aefd8b9-d180-4990-a645-dc409383ad25.mp4
+
 
 
 ![cityhero-image](https://user-images.githubusercontent.com/89460205/227716698-39d18e0a-938e-4ca8-91c2-e5907f6d10a6.jpeg)
